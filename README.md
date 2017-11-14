@@ -1,4 +1,4 @@
-# vanilla-todo-list-ssht3jsbkk
+Vanilla JS: Make a Simple To-Do List!
 
 Planning - Pseudocode:-
 
